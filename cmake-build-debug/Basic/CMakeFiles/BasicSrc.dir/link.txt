@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libBasicSrc.a  CMakeFiles/BasicSrc.dir/Basic.cpp.o CMakeFiles/BasicSrc.dir/evalstate.cpp.o CMakeFiles/BasicSrc.dir/exp.cpp.o CMakeFiles/BasicSrc.dir/parser.cpp.o CMakeFiles/BasicSrc.dir/program.cpp.o CMakeFiles/BasicSrc.dir/statement.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libBasicSrc.a
